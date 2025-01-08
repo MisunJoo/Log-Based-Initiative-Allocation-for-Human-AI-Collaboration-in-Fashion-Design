@@ -1,5 +1,5 @@
-# Login
-This is the data preprocessing and analysis code for the Login dataset stored in DOI [here](https://doi.org/10.5281/zenodo.14304837).
+# Log-Based Initiative Allocation for Human-AI Collaboration in Fashion Design
+This is the data preprocessing and analysis code for the Login dataset stored in DOI [here](https://doi.org/10.5281/zenodo.14616661).
 If you need further guidance, please feel free to contact me.
 
 ## ABSTRACT
